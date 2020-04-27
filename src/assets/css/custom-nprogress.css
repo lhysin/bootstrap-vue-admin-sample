@@ -1,0 +1,17 @@
+/* invisible dimed */
+.nprogress-busy::after {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: white;
+  opacity: 0;
+  z-index: 1071;
+}
+
+/* progress bar color */
+#nprogress .bar {
+  background-color: red;
+}

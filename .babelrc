@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "syntax-dynamic-import",
+    [
+      "wildcard",
+      {
+        "useCamelCase": true,
+        "noModifyCase": false
+      }
+    ]
+  ]
+}
