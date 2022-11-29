@@ -1,5 +1,7 @@
 # bootstrap-vue
 
+[Final Guide](https://lhysin.notion.site/bootstrap-vue-admin-sample-Guide-7a270734224f44db8599c7fb47bfd67d)  
+
 ## node js
 https://nodejs.org/en/download/
 
